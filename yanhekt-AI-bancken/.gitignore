@@ -1,0 +1,9 @@
+data/
+final_videos/
+tmp_uploads/
+analysis_results
+.env
+state_schema.json
+__pycache__/
+*.pyc
+.idea/
