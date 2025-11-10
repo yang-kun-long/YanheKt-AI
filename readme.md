@@ -143,4 +143,4 @@
 
 ## 📄 授权 (License)
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://github.com/yang-kun-long/YanheKt-AI?tab=MIT-1-ov-file)
